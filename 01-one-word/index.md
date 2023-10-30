@@ -1,7 +1,7 @@
 # Influencer
 
 - [Rough Draft](rough-draft.md)
-- [First Draft](#first-draft)
+- [First Draft](first-draft.md)
 - [Revision](#revision)
 - [Edit](#edit)
 
