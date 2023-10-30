@@ -2,8 +2,9 @@
 
 - [Rough Draft](rough-draft.md)
 - [First Draft](first-draft.md)
-- [Revision](#revision)
-- [Edit](#edit)
+- [Revision](revision.md)
+
+**Final draft**
 
 When I hear or read the word „influencer“ I feel like I am no longer able to understand the world around me. Which is crazy, as I am only 21 and I’ve always been a part of new trends and stuff. I myself spent 5 years by creating video content on YouTube. But here’s my hot take. I learned a lot by doing that. I felt the need to improve. I had my idols and my young me wanted to be like them. I started learning many different things. Editing, creating graphics,  and making my own motion graphics. Later on I invested into a better microphone to make my videos sound better. Because I felt the need to be compareble to those above me. But in the world of social media, it doesn’t work like this. Influencers are not trying to improve in any specific skillset. You know why? Because there is only one difference between a small and worldwide influencer superstar. And that difference is how bizzare and viral they can become. There are no production quality differences, nor content differences most of the time. It’s all a similar garbage. 
 
