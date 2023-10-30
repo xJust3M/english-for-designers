@@ -1,6 +1,6 @@
 # Influencer
 
-- [Rough Draft](#rough-draft)
+- [Rough Draft](rough-draft.md)
 - [First Draft](#first-draft)
 - [Revision](#revision)
 - [Edit](#edit)
