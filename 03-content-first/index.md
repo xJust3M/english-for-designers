@@ -56,7 +56,7 @@ Besides all this surely very cool work stuff, In my personal life, I'm still a p
 I also enjoy working out a bit *(don't call me a gymrat)*, watching anime *(don't call me weeb)* and reading mangas but I prefer physical form and they're freakin expensive *~~(don't call me poor)~~*.
 
 When it comes to sports, I prefer single user gameplay sports. Like skiing, biking, snowboarding. Perhaps sports for two. 
-To put it simply, I don't like sports where I have to function in a team. However, when it comes to videogames or job, I like to cooperate with others. Weird eh?
+To put it simply, I don't like sports where I have to function in a team. However, when it comes to videogames or job, I like to cooperate with others.
 
 And that's it. Thank you for your time!
 
