@@ -61,5 +61,6 @@ To put it simply, I don't like sports where I have to function in a team. Howeve
 And that's it. Thank you for your time!
 
 
+![image](https://github.com/xJust3M/english-for-designers/assets/148856115/cd71d33f-e551-41ac-bd98-a2cb4a951800)
 
 
