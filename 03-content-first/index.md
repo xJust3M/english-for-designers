@@ -1,8 +1,10 @@
 # Content first
 
-Introduction
-(Hopefully) interesting things about me
-My proud work
+[Introduction](https://github.com/xJust3M/english-for-designers/edit/main/03-content-first/index.md#introduction)
+
+[(Hopefully) interesting things about me](https://github.com/xJust3M/english-for-designers/edit/main/03-content-first/index.md#about-me)
+
+[My proud work](https://github.com/xJust3M/english-for-designers/edit/main/03-content-first/index.md#about-me)
 
 ## Introduction
 ### Greetings! The name I was given when I first appeared in this world is Matyáš Letáček.
@@ -29,5 +31,35 @@ Since Network security sounded scary, I picked multimedia in which we were worki
 
 So now I am here, in the final grade of VŠKK, specialization "Animations and visual effects", working in my field alongside my studes and I love it. 
 
-## My work
+## Some of my work
+Shortly after I started my first real job, I was asked whether I'm able to do some liquid simulations. That they might have something for **Pepsi** for me.
+I said yes! I don't have many experiences with liquid simulations but I'll do my best.
+And it turned out great I think. Pepsi is doing this for some years now, meaning I have something to compare my result to and I am happy with it. You can check the full ad [here](https://www.youtube.com/watch?v=KHiboX409VY&pp=ygUNcGVwc2kgcmVrbGFtYQ%3D%3D). I also made the motion graphics btw.
+It was broadcasted in Czech Republic, Slovakia, Hungary and Malta (guess Malta is a big Pepsi enjoyer). 
+In TV, YouTube, cinemas, you name it.
+
+<img width="1013" alt="image" src="https://github.com/xJust3M/english-for-designers/assets/148856115/9d66d3fe-3426-468c-aa04-fe82231d76f7">
+
+
+This was 1,5 years ago so let's take a look at something more recent.
+
+**Chromozoom** is a company that's offering DNA tests to make you understand your body more. I composited [this](https://www.youtube.com/watch?v=4510LKV5iiI&pp=ygUKY2hyb21vem9vbQ%3D%3D) ad for them. Every time stopping scene, all the infographics and packshot. I'm currently working on a CLV spot for them. (That's the type of ad you see in metro.)
+
+<img width="1006" alt="image" src="https://github.com/xJust3M/english-for-designers/assets/148856115/8ed822be-4a0a-4ce0-8985-bd2e963804fb">
+
+There is also a very cool currently ongoing project for Czech company Shoptet, which is a tool to help you build your eshop. It's not released yet, so this is all I can show you lol sorry.
+
+![frame_91](https://github.com/xJust3M/english-for-designers/assets/148856115/8605113f-5d1e-40c3-b04c-2235cf698858)
+
+
+Besides all this surely very cool work stuff, In my personal life, I'm still a passionate gamer *(although not as I used to be, anybody knows how many goats I have to sacrifice to get 30 hours long days?)*
+I also enjoy working out a bit *(don't call me a gymrat)*, watching anime *(don't call me weeb)* and reading mangas but I prefer physical form and they're freakin expensive *~~(don't call me poor)~~*.
+
+When it comes to sports, I prefer single user gameplay sports. Like skiing, biking, snowboarding. Perhaps sports for two. 
+To put it simply, I don't like sports where I have to function in a team. However, when it comes to videogames or job, I like to cooperate with others. Weird eh?
+
+And that's it. Thank you for your time!
+
+
+
 
