@@ -11,7 +11,7 @@
 [My proud work](#some-of-my-work)
 
 ## Introduction
-### Greetings! The name I was given when I first appeared in this world is Matyáš Letáček.
+### Greetings! The name I was given when I appeared in this world is Matyáš Letáček.
 I'm a passionate, creative person that finds his joy in creating eye pleasing, functional multimedia products.
 Whether that's 2D motion graphics, 3D animations, VFX shots or even edited spots!
 
