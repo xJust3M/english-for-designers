@@ -2,7 +2,7 @@
 # [02-first-impression](https://matyasletacek.my.canva.site/landing)
 # [03-content-first](https://xjust3m.github.io/english-for-designers/03-content-first)
 
-# Content first
+# Content
 
 [Introduction](#introduction)
 
