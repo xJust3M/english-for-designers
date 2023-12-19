@@ -4,7 +4,7 @@
 
 # Content first
 
-[Introduction](https://github.com/xJust3M/english-for-designers/edit/main/03-content-first/index.md#introduction)
+[Introduction](#introduction)
 
 [(Hopefully) interesting things about me](https://github.com/xJust3M/english-for-designers/edit/main/03-content-first/index.md#about-me)
 
