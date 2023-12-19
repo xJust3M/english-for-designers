@@ -8,7 +8,7 @@
 
 [(Hopefully) interesting things about me](#about-me)
 
-[My proud work](#some-of-my-work))
+[My proud work](#some-of-my-work)
 
 ## Introduction
 ### Greetings! The name I was given when I first appeared in this world is Matyáš Letáček.
