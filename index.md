@@ -6,9 +6,9 @@
 
 [Introduction](#introduction)
 
-[(Hopefully) interesting things about me](https://github.com/xJust3M/english-for-designers/edit/main/03-content-first/index.md#about-me)
+[(Hopefully) interesting things about me](#about-me)
 
-[My proud work](https://github.com/xJust3M/english-for-designers/edit/main/03-content-first/index.md#about-me)
+[My proud work](#about-me)
 
 ## Introduction
 ### Greetings! The name I was given when I first appeared in this world is Matyáš Letáček.
