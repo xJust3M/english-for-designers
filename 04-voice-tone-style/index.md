@@ -2,7 +2,7 @@
 
 ## DBRAND's content style guide
 
-DBRAND is a large company making high quality cases and skins for all sorts of gadgets. Mobile phones, earbuds, consoles, laptops, you name it.
+[DBRAND](https://dbrand.com/) is a large company making high quality cases and skins for all sorts of gadgets. Mobile phones, earbuds, consoles, laptops, you name it.
 
 ## Voice
 
