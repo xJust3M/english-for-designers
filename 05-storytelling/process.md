@@ -4,7 +4,7 @@ by Matyáš Letáček
 
 20 February 2024
 
-- Read [the article](…) <!-- index.md -->
+- Read [the article](index.md)
 
 ## Process
 
