@@ -8,5 +8,11 @@ by Matyáš Letáček
 
 ## Process
 
-<!-- Treat this as the case study to your article/talk/presentation. Document, discuss, and show your process (mind maps, chunking, draft and revised content, presenter notes, links to resources, etc.) -->
-<!-- Preparing a conference talk: https://adactio.com/journal/14363 -->
+**Topics I want to mention:**
+- how difficult it is to choose the right one, how not everyone has the options
+- how I was choosing highschool
+- how I tried to convince myself I chose the right one for the first year
+- how I then realized I really don't care about programming
+- how at least hardware got my attention
+- how I changed my specialization
+- 
