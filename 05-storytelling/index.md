@@ -37,12 +37,30 @@ And the funny thing is, my childhood friend applied to a highschool that combine
 First year of highschool was all about convincing myself I actually do care about programming, but… that didn’t really work. Starting with 2nd grade, I realised it completely as two new subjects got introduced to us. It was hardware and basics of computer graphical design.
 I was very good at graphical design basically from the beginning and when it comes to hardware, I wanted a new computer at that time. And I thought to myself I should also build it myself. So I started learning hardware from my own initiative and I really enjoyed it. Because of that, I was also good at school when it came to hardware. Actually, this is not supposed to sound egoistic but sometimes I felt like I know more about current technologies than our teacher did. I loved to argue with him about stuff, trying to show him I know more while still acting like I really respect what he will tell me.
 
+Anyways, the longer I was there, the more I realized I simply care about everything but programming. 
 
+Third grade was when everything changed as a new subject got introduced. It was an optional subject about 3D modeling. 
+I signed for it and from the beginning, I liked it. I was curious about it. But I hated the program we had to use. Later on, I was recommended to try out Blender and I immediately fell in love with it. I started learning it by myself and shortly I it was very clear not only what my final project is going to be but also what I want to study next.
 
+3 years later and I am finishing this school, freelancing as a 3D artist, motion graphics designer and video editor.  
 
+However, although I completely changed my specialization, I am glad I studied what I did on higschool. Because although I am now in a creative field, I find it very benefical to know more in depth stuff about computers and computer hardware. 
+Especially in 3D as 3D is of course creative thing but it also requires technical thinking often which I was able to develop thanks to my highschool. 
 
+My highschool that I considered to be a mistake. 
 
+Right now, I am in a similar situation. I am finishing my studies, working on final project and working at the same time. 
+And you know what? I hate it. 
 
+I hate that feeling of not doing anything at 100%.
+
+I was thinking many times how wonderful it would be if I could already be either employed full time somewhere or work freelance carrier full time. 
+
+But... Thanks to my previous experience I feel like I will be glad for this one day. For having the opportunity to finish my studies in peace, having enough time for my project, other interests and just being able to enjoy that "I can be curious about and touch anything I want" period.
+I keep telling to myself "You can work for the rest of your life."
+
+And that is my final word for this talk... Don't stress too much about whether the things you currently do are right for you or whether you're wasting your time with it. 
+I am not saying that if you feel like you're doing something you're not passionate about that you shouldn't head a different way. But don't regret it as every experience is valuable and will give you something in the future. 
 
 
 
