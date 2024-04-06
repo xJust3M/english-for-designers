@@ -62,6 +62,11 @@ I keep telling to myself "You can work for the rest of your life."
 And that is my final word for this talk... Don't stress too much about whether the things you currently do are right for you or whether you're wasting your time with it. 
 I am not saying that if you feel like you're doing something you're not passionate about that you shouldn't head a different way. But don't regret it as every experience is valuable and will give you something in the future. 
 
+Amen.
+
+![image](https://github.com/xJust3M/english-for-designers/assets/148856115/442f8692-9eeb-4efb-a577-4c6206babc5f)
+
+
 
 
 
