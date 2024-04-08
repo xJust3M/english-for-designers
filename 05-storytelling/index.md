@@ -1,5 +1,3 @@
-### Work in progress
-
 # I chose a wrong highschool and I am glad I did
 
 by Matyáš Letáček
