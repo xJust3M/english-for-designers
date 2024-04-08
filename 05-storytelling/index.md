@@ -7,6 +7,7 @@ by Matyáš Letáček
 20 February 2024
 
 - Read [the process documentation](process.md)
+- Watch [the recorded version]((https://youtu.be/RZRFioG00E4))
 
 -------------
 
