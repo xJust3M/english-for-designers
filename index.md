@@ -6,6 +6,7 @@
 ## [03-content-first](https://xjust3m.github.io/english-for-designers/03-content-first)
 ## [04-voice-tone-style](https://xjust3m.github.io/english-for-designers/04-voice-tone-style)
 ## [05-storytelling](https://xjust3m.github.io/english-for-designers/05-storytelling)
+## [06-thesis](https://xjust3m.github.io/english-for-designers/06-thesis)
 # Content
 
 [Introduction](#introduction)
