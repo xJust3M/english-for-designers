@@ -1,4 +1,4 @@
-# I chose a wrong highschool and I am glad I did
+# I chose a wrong high school, and I’m glad I did
 
 by Matyáš Letáček
 
