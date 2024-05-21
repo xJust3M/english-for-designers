@@ -7,6 +7,7 @@
 ## [04-voice-tone-style](https://xjust3m.github.io/english-for-designers/04-voice-tone-style)
 ## [05-storytelling](https://xjust3m.github.io/english-for-designers/05-storytelling)
 ## [06-thesis](https://xjust3m.github.io/english-for-designers/06-thesis)
+## [07-year-in-review](https://xjust3m.github.io/english-for-designers/07-year-in-review)
 # Content
 
 [Introduction](#introduction)
