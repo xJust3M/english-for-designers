@@ -13,7 +13,7 @@ It's a paradox. When a person experiences bad relationship, they wish for a beau
 I was happy, very happy about my life thanks to this relationship. Not noticing the other person is not. When looking back at it, I don't understand myself. If I could travel back in time, I'd prolly slap myself and tell my few months younger me to open his damn eyes and realize some things. When having these thoughts, self-hatred is not an uncommon thing, but I don't want to fall into this. I don't want to hate myself, I still want to have faith in myself and believe I can get better.
 
 Things were going downward spiral gradually, but I just couldn't fully realize my mistakes until a recent event. Everything seemed fine during that time. I bought myself a new PC I planned on building. But when building it, I accidentaly broke a $340 motherboard. When taking it to a repairshop, I was really stressed it also took down the $500 CPU with it or something. I was extremely anxious about it. 
-But I had no idea it's literally nothing to what was yet to come. Our relationship got to a critical point as I did the most stupid thing a person can do in a relationship. 
+But I had no idea it's literally nothing to what was yet to come. Our relationship got to a critical point as few weeks prior I did the most stupid thing a person can do in a relationship which came to light.
 
 I lied. Hiding the fact I met someone.
 
